@@ -10,7 +10,11 @@ From the last project the following were added to the new and updated one
 4) Start and Restart game with a button on run time
 
 Link to the Website - 
-TODO
+
+
+https://www.mooict.com/c-tutorial-how-to-make-a-classic-snakes-game-with-windows-form-and-visual-studio/
 
 Full Video Tutorial on the official Channel - 
-TODO
+
+
+[![YouTube Video for Classic Snake Game Tutorial in C#](http://img.youtube.com/vi/TzaCn1ZPalI/0.jpg)](http://www.youtube.com/watch?v=TzaCn1ZPalI "How to create a classic snake game in windows form and c#")
